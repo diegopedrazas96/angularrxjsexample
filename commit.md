@@ -1,1 +1,1 @@
-fix up some tests for Firefox on 2/9/2019
+update and deploy firebase function for code.angularjs.org on 2/2/2017
