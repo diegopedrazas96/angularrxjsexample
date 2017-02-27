@@ -1,1 +1,1 @@
-store release instructions on 2/24/2017
+rename to angular to match npm on 2/27/2017
