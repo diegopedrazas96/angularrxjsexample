@@ -1,1 +1,1 @@
-work around Firefox  bug on 4/4/2017
+document  property on 3/31/2017
