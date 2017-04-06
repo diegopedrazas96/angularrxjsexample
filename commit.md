@@ -1,1 +1,1 @@
-add workaround for Safari / Webdriver problem on 3/9/2019
+work around Firefox  bug on 4/6/2017
