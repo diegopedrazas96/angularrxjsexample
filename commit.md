@@ -1,1 +1,1 @@
-update firebase libraries on 4/26/2017
+change / remove obsolete information on 4/13/2017
