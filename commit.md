@@ -1,1 +1,1 @@
-insert the core CSS styles without using innerHTML on 2/6/2017
+fix up some tests for Firefox on 2/10/2019
